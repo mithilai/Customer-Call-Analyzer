@@ -11,3 +11,9 @@ git commit -m "Your commit message"
 git push origin main
 
 curruntly run only test2.py
+
+
+download ffmpeg save in harddrive it works
+https://github.com/BtbN/FFmpeg-Builds/releases
+
+in this sharedzip
