@@ -1,0 +1,13 @@
+streamlit
+torch
+torchvision 
+torchaudio
+openai-whisper
+langchain_groq
+langchain_core
+python-dotenv
+langchain_community
+ffmpeg-python
+spacy
+reportlab
+pdfkit
